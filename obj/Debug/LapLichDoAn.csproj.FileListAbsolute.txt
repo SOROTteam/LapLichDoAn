@@ -1,0 +1,12 @@
+c:\users\yenyenkute\source\repos\LapLichDoAn\LapLichDoAn\bin\Debug\LapLichDoAn.exe.config
+c:\users\yenyenkute\source\repos\LapLichDoAn\LapLichDoAn\bin\Debug\LapLichDoAn.exe
+c:\users\yenyenkute\source\repos\LapLichDoAn\LapLichDoAn\bin\Debug\LapLichDoAn.pdb
+c:\users\yenyenkute\source\repos\LapLichDoAn\LapLichDoAn\obj\Debug\LapLichDoAn.csprojResolveAssemblyReference.cache
+c:\users\yenyenkute\source\repos\LapLichDoAn\LapLichDoAn\obj\Debug\LapLichDoAn.CaLenDer.resources
+c:\users\yenyenkute\source\repos\LapLichDoAn\LapLichDoAn\obj\Debug\LapLichDoAn.Properties.Resources.resources
+c:\users\yenyenkute\source\repos\LapLichDoAn\LapLichDoAn\obj\Debug\LapLichDoAn.csproj.GenerateResource.cache
+c:\users\yenyenkute\source\repos\LapLichDoAn\LapLichDoAn\obj\Debug\LapLichDoAn.csproj.CoreCompileInputs.cache
+c:\users\yenyenkute\source\repos\LapLichDoAn\LapLichDoAn\obj\Debug\LapLichDoAn.exe
+c:\users\yenyenkute\source\repos\LapLichDoAn\LapLichDoAn\obj\Debug\LapLichDoAn.pdb
+c:\users\yenyenkute\source\repos\LapLichDoAn\LapLichDoAn\obj\Debug\LapLichDoAn.DailyPlan.resources
+c:\users\yenyenkute\source\repos\LapLichDoAn\LapLichDoAn\obj\Debug\LapLichDoAn.AJob.resources

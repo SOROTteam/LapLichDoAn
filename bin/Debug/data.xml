@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<PlanData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Job>
+    <PlanItem>
+      <Date>2018-06-01T15:43:49.7803527+07:00</Date>
+      <Job>Thử Nghiệm</Job>
+      <FromTime>
+        <X>4</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>6</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>Dự Kiến</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2018-06-01T15:43:49.7813522+07:00</Date>
+      <Job>sua thanhc ong</Job>
+      <FromTime>
+        <X>4</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>6</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>Bỏ Lỡ</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2018-06-01T00:00:00</Date>
+      <Job>adasdx</Job>
+      <FromTime>
+        <X>0</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>0</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>Hoàn Thành</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2018-06-02T00:00:00</Date>
+      <Job>aszxcx</Job>
+      <FromTime>
+        <X>0</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>0</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>Dự Kiến</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2018-06-03T00:00:00</Date>
+      <Job>zaaaaaaaa</Job>
+      <FromTime>
+        <X>0</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>0</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>Dự Kiến</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2018-06-01T00:00:00</Date>
+      <Job>asdasd</Job>
+      <FromTime>
+        <X>0</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>0</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>Hoàn Thành</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2018-06-02T00:00:00</Date>
+      <Job>asdasz</Job>
+      <FromTime>
+        <X>0</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>0</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>Đang Làm</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2018-06-01T21:23:28.9257089+07:00</Date>
+      <FromTime>
+        <X>0</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>0</X>
+        <Y>0</Y>
+      </ToTime>
+    </PlanItem>
+    <PlanItem>
+      <Date>2018-06-01T21:23:43.4327775+07:00</Date>
+      <FromTime>
+        <X>0</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>0</X>
+        <Y>0</Y>
+      </ToTime>
+    </PlanItem>
+  </Job>
+</PlanData>
